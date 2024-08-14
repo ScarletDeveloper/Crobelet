@@ -32,7 +32,4 @@
 
 ## Usage
 
-To use Cobrelet, you can run it from the command line. Here's a basic example of how to use the tool:
-
-```bash
-cobrelet <input_file> <output_file>
+Run crobelet.py enter the thing you wanna encrypt.
