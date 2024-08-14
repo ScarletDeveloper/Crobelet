@@ -1,0 +1,40 @@
+
+### 2. `.gitignore` File
+
+This file will specify which files and directories Git should ignore. Here's a basic `.gitignore` for a Python project:
+
+```gitignore
+# Byte-compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual environment
+venv/
+.env/
+
+# Distribution and packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Pyenv
+.python-version
+
+# Pylint
+pylint.report
+
+# Other files
+*.log
