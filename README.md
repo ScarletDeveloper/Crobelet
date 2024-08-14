@@ -31,5 +31,5 @@
     ```
 
 ## Usage
-
+```bash
 Run crobelet.py enter the thing you wanna encrypt.
